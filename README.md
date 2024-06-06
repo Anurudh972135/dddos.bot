@@ -1,0 +1,2 @@
+# dddos.bot
+Bot
